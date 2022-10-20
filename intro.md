@@ -7,7 +7,7 @@ Contenuti della lezione
 
 ## Presentazioni
 
-Compilate il [questionario](https://forms.gle/ztjYqHgbpb2oCfAk7)
+Compilate il [questionario](https://forms.gle/ztjYqHgbpb2oCfAk7) inserendo il vostro username https://training.olinfo.it/.
 
 ## c++ vs python3
 
@@ -15,6 +15,7 @@ Compilate il [questionario](https://forms.gle/ztjYqHgbpb2oCfAk7)
 
 <details>
 <summary>Scheletro</summary>
+
 c++
 ```cpp
 #include <bits/stdc++.h>
@@ -485,7 +486,7 @@ Riscaldamento:
 * [easy3](https://training.olinfo.it/#/task/easy3/statement)
 
 
-E dopo i primi tre esercizi on 100/100:
+E dopo i primi tre esercizi con 100/100:
 
 * [ois_carrucole](https://training.olinfo.it/#/task/ois_carrucole/statement)
 * [spartizione](https://training.olinfo.it/#/task/spartizione/statement)
