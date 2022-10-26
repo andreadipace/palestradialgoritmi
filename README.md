@@ -28,8 +28,8 @@ Attraverso il [canale](https://t.me/pdaRussel22) Telegram.
 
 | Data | Lezione |
 |------|---------|
-| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/master/intro.md) |
-| TBD | - |
+| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/master/lezioni/0_intro.md) |
+| 04/11/22 | - |
 | TBD | - |
 | TBD | - |
 | TBD | - |
