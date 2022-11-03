@@ -28,8 +28,8 @@ Attraverso il [canale](https://t.me/pdaRussel22) Telegram.
 
 | Data | Lezione |
 |------|---------|
-| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/master/lezioni/0_intro.md) |
-| 04/11/22 | - |
+| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/0_intro.md) |
+| 04/11/22 | [Alberi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/1_tree.md) |
 | TBD | - |
 | TBD | - |
 | TBD | - |
@@ -43,7 +43,7 @@ Attraverso il [canale](https://t.me/pdaRussel22) Telegram.
 
 [Correttore olimpiadi](https://training.olinfo.it/)
 
-[Forum correttore](https://forum.olinfo.it/)
+[Forum olimpiadi](https://forum.olinfo.it/)
 
 [Sito Prof. Montresor](https://cricca.disi.unitn.it/montresor/)
 
