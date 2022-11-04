@@ -104,7 +104,7 @@ Figlio destro: **i** * 2 + 1
 
 | Indice | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 |
 | - | - | - | - | - | - | - | - | - |
-| Padre | - | 5 | 3 | 4 | 2 | 1 | 0 | - |
+| Nodo | - | 5 | 3 | 4 | 2 | 1 | 0 | - |
 
 É come se noi copiassimo livello per livello, partendo dalla radice, i nodi dell'albero.
 Il vettore sarà grande quanto la prima potenza di due >= del numero dei nodi;
@@ -113,8 +113,8 @@ Il vettore sarà grande quanto la prima potenza di due >= del numero dei nodi;
 
 Ogni nodo avrà un vettore associato in cui verranno inseriti i suoi figli. Ovviamente i vettori avranno dimensione differente.
 
-| Indice |  |  |  |  |
-| - | - | - | - | - |
+| Indice |  |  |
+| - | - | - |
 | 0 |
 | 1 |
 | 2 |
@@ -296,4 +296,4 @@ Esempio: Se volessi stampare l'espressione presente nell'albero appena sopra.
 
 ## Contest
 
-INSERIRE LINK
+Il contest lo trovate [qui](https://www.palestradialgoritmi.fun/school/russel). Inizia alle 15:30.
