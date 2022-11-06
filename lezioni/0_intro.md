@@ -481,13 +481,12 @@ for e in v:
 Un po' di esercizi per conoscerci meglio :)
 
 Riscaldamento:
-* [easy1](https://training.olinfo.it/#/task/easy1/statement)
-* [easy2](https://training.olinfo.it/#/task/easy2/statement)
-* [easy3](https://training.olinfo.it/#/task/easy3/statement)
 
-
-E dopo i primi tre esercizi con 100/100:
-
-* [ois_carrucole](https://training.olinfo.it/#/task/ois_carrucole/statement)
-* [spartizione](https://training.olinfo.it/#/task/spartizione/statement)
-* [disuguaglianze](https://training.olinfo.it/#/task/disuguaglianze/statement)
+| Problema | Soluzione |
+| - | - |
+| [easy1](https://training.olinfo.it/#/task/easy1/statement) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1/easy1) |
+| [easy2](https://training.olinfo.it/#/task/easy2/statement) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1/easy2) |
+| [easy3](https://training.olinfo.it/#/task/easy3/statement) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1/easy3) |
+| [ois_carrucole](https://training.olinfo.it/#/task/ois_carrucole/statement) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1/ois_carrucole) |
+| [spartizione](https://training.olinfo.it/#/task/spartizione/statement) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1/spartizione) |
+| [disuguaglianze](https://training.olinfo.it/#/task/disuguaglianze/statement) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1/disuguaglianze) |
