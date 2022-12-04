@@ -28,8 +28,8 @@ Attraverso il [canale](https://t.me/pdaRussel22) Telegram.
 
 | Data | Lezione | Contest | Soluzioni |
 |------|---------|---------|-----------|
-| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/0_intro.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/intro) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1) |
-| 04/11/22 | [Alberi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/1_tree.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/tree) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/2) |
+| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/0_intro.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/intro) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/0.Riscaldamento) |
+| 04/11/22 | [Alberi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/1_tree.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/tree) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1.Alberi) |
 | 24/11/22 | [Grafi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/2_graph.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/graph) | |
 | 09/12/22 | | | |
 
