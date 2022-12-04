@@ -24,20 +24,14 @@ Attraverso il [canale](https://t.me/pdaRussel22) Telegram.
 
 ### Calendario
 
-[Link](https://calendar.google.com/calendar/u/0?cid=OGZlMjJhZjcxOWMyMzg0YzM4YzUwNGVkZjNjM2ZhMmMyZDk5YmRmNzA4MjhkMjQwNzY1OGY0MTAxN2FhYWZjOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) al calendario su Google Calendar (da sistemare).
+[Link](https://calendar.google.com/calendar/u/0?cid=OGZlMjJhZjcxOWMyMzg0YzM4YzUwNGVkZjNjM2ZhMmMyZDk5YmRmNzA4MjhkMjQwNzY1OGY0MTAxN2FhYWZjOEBncm91cC5jYWxlbmRhci5nb29nbGUuY29t) al calendario su Google Calendar.
 
-| Data | Lezione |
-|------|---------|
-| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/0_intro.md) |
-| 04/11/22 | [Alberi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/1_tree.md) |
-| TBD | - |
-| TBD | - |
-| TBD | - |
-| TBD | - |
-| TBD | - |
-| TBD | - |
-| TBD | - |
-| TBD | - |
+| Data | Lezione | Contest | Soluzioni |
+|------|---------|---------|-----------|
+| 20/10/22 | [Introduzione](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/0_intro.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/intro) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/1) |
+| 04/11/22 | [Alberi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/1_tree.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/tree) | [link](https://github.com/paradopax/palestradialgoritmi/blob/main/soluzioni/2) |
+| 24/11/22 | [Grafi](https://github.com/paradopax/palestradialgoritmi/blob/main/lezioni/2_graph.md) | [link](https://www.palestradialgoritmi.fun/school/russel#/contest/graph) | |
+| 09/12/22 | | | |
 
 ## Link utili
 

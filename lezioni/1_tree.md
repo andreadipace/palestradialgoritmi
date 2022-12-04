@@ -179,7 +179,7 @@ g.adj(0); // ritorna un vettore dei figli (struct Edge)
 
 Una strategia per analizzare (visitare) tutti i nodi di un albero.
 Siccome ogni nodo viene visatato esattamnte una sola volta, il costo di qualunque visita è esattamente O(n).
-  
+
 Prendiamo in considerazione quest'albero:
 
 ```mermaid
